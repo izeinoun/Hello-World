@@ -5,3 +5,4 @@ ok
 Adding this line on my laptop inside the new-feature branch. 
 adding another line.
 adding another another line.
+ To install the CTI Adapter, look for New feature xml file
